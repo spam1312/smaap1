@@ -84,5 +84,5 @@ if (message.content === '!spam') {
 
 
 
-client.login("NDYwNDgxMzI2Njg0OTYyODI5.DxNicQ.6Mk8t7ho7LvAaE0PFoE4bP49N5Q");// لا تغير فيها شيء
-client2.login("NDQ5ODE1NzE3MjU3MjgxNTM2.DxNiUA.Ns6NVC8s4q5lU6l1AkcWnm0MHv8");// لا تغير فيها شيء
+client.login("NjIzMjQ0MzUyODMxMDk0Nzk4.XX_npA.vGzcbmSW0Fu4PCKVBERcrpMZaFc");// لا تغير فيها شيء
+client2.login("NjIzMjI4MDMzNTQ4OTQzMzkx.XX_onA.sc6fe79VK8lC0QtYgOxsKtEE9WU");// لا تغير فيها شيء
